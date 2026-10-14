@@ -101,9 +101,9 @@ AWS | Docker | Git | GitHub | VS Code | vLLM
 
 ────────────────
 
-💼 LinkedIn: linkedin.com/in/anjanachenchani  
-💻 GitHub: https://github.com/Anjanachenchani  
+💼 LinkedIn: [Anjana Chenchani](https://www.linkedin.com/in/anjana-chenchani-a33182291/)  
+💻 GitHub: [Anjanachenchani](https://github.com/Anjanachenchani)  
 🌐 Portfolio: Add your portfolio link  
-📧 Email: Add your professional email  
+📧 Email: anjanachenchani@gmail.com
 
 ✨ Learning, building and growing one project at a time.
