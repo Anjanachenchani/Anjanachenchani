@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anjana Chenchani
 
-### 💻 Software Developer | AI & ML Enthusiast | Full Stack Developer
+### 💻 Software Developer | AI developer  | Full Stack Developer
 
 ## 👩‍💻 About Me
 
